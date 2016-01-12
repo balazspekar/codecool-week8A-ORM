@@ -1,6 +1,6 @@
-### Object-relational mapping
+# Object-relational mapping
 ## Codecool Task
-# Week 8A
+#### Week 8A
 
 Your task is to do the followings:
 We would like to represent the database content as objects in an object oriented language like the python. Object-relational mapping (ORM) is a technique (a.k.a. design pattern) of accessing a relational database from an object-oriented language (Java, python for example).
